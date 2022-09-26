@@ -1,6 +1,8 @@
 # Data and models
 data/*
 models/*
+onnx/*
+onnx_quantized/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
